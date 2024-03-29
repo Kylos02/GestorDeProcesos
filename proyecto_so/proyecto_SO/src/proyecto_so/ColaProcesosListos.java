@@ -1,6 +1,5 @@
 /**
  * Procedimiento para ingresar o borrar elementos a nuestra cola de procesos listos
- * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
 package proyecto_so;
 

@@ -1,7 +1,7 @@
 /**
  * Realizamos proceso para administrar nuesta cola FIFO, donde encolamos, desencolamos e imprimimos proceso
- * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
+
 package proyecto_so;
 
 public class ColaFIFO { //Clase llamada Cola FIFO

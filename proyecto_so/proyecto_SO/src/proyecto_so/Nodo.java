@@ -1,9 +1,8 @@
 /**
  *Lo que hacemos es tener un nodo con una referencia a un objeto de la clase Proceso, y el siguiente nodo se inicializa como nulo, 
  * pudiendo ser modificado posteriormente para apuntar a otro Nodo
- * 
- * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
+
 package proyecto_so;
 
 public class Nodo { //Clase llamada Nodo

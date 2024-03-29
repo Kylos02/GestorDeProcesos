@@ -1,6 +1,6 @@
 /**
  *Aquí se declaran todos los atributos de los procesos, para asi hacer uso de este
- * @author Miss Leo
+ * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
 package proyecto_so;
 

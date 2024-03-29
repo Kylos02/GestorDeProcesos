@@ -1,6 +1,6 @@
 /**
  * Aqui observamos como es que se administran los procesos de la cola de procesos listos y cola FIFO
- * @author leo
+ * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
 package proyecto_so;
 

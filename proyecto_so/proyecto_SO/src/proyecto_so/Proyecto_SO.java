@@ -1,5 +1,5 @@
 /**
- * @author Miss Leonard 
+ * @author Carmona Zoe, Castillo Leo, Silverio Andres y Quintero Joshua
  */
 
 package proyecto_so;

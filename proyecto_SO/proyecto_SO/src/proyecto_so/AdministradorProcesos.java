@@ -78,9 +78,7 @@ public class AdministradorProcesos { //Clase de administrador de procesos
                         tEspera=tEspera+(enEjecucion.gettMaxEspera()-enEjecucion.getTiempoLlegada()-enEjecucion.gettEjecutado());
                         System.out.println("|| Soy el proceso " + enEjecucion.getId() + "|| -> Tiempo de ejecucion maximo " + enEjecucion.gettMaxEjecucion() + " <-- || --> Tiempo de llegada " + enEjecucion.getTiempoLlegada() + " <-- || --> Tiempo de espera " + enEjecucion.gettMaxEspera() + " <-- ||");
                     } else{ //Si el tiempo de servicio del proceso en ejecución no ha terminado su ejecución 
-                        procesos.insertarProceso(enEjecucion); //Lo volvemos a enconlar a nuestra cola FIFO
-                        banderaEspacio=0;
-                        memoriaDisponible += enEjecucion.getTamano();
+                        colaFIFO.encolar(enEjecucion, quantum); //Lo volvemos a enconlar a nuestra cola FIFO
                     }
                     enEjecucion=colaFIFO.desencolar(); //Se desencola el siguiente proceso de la cola FIFO para ejecutarlo en la CPU.
                     

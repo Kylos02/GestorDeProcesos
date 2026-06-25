@@ -123,11 +123,19 @@ This project was developed as part of the **Operating Systems** course. Its purp
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Kylos02**
 - GitHub: [@Kylos02](https://github.com/Kylos02)
 
+**ZoeCarmona**
+- GitHub: [@ZoeCarmona](https://github.com/ZoeCarmona)
+
+**joshuaqm**
+- GitHub: [@joshuaqm](https://github.com/joshuaqm)
+
+**leonard3467**
+- GitHub: [@leonard3467](https://github.com/leonard3467)
 ---
 
 ## 📄 License
